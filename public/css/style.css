@@ -1,0 +1,50 @@
+*{
+    font-style: sans-sarif;
+}
+
+h1{
+ 
+    padding-top: 60px;
+    text-shadow:  5px 4px 11px rgb(128, 128, 226);
+}
+
+.hero{
+    color: rgb(57, 57, 175);
+    padding-top: 3px;
+}
+
+.para{
+    padding-top: 2px;
+    font-size: 20px;
+}
+
+figure img{
+    width:600px;
+    height: 60vh;
+}
+
+.box1:hover{
+box-shadow: 0px 0px 6px 0px rgb(0, 75, 128);
+background-color: rgb(98, 96, 99);
+border-radius: 10px;
+}
+
+
+.box2:hover{
+    box-shadow: 0px 0px 6px 0px rgb(36, 153, 96);
+    background-color: rgb(204, 173, 219);
+    border-radius: 10px;
+    }
+
+    
+.box3:hover{
+    box-shadow: 0px 0px 6px 0px rgb(200, 121, 38);
+    background-color: rgb(222, 148, 95);
+    border-radius: 10px;
+    }
+
+
+    .settings{
+        box-shadow: 3px 4px 5px #c6bfbf;
+    }
+
